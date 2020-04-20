@@ -1,0 +1,3 @@
+Ach du kacke {player}, da hast du auf {champ} ja ganz schön hart geintet. {k}/{d}/{a} sieht echt nicht gut aus.
+Yikes! {k}/{d}/{a}... {champ} solltest du lieber nicht mehr spielen, {player}.
+Da ist {player} auf {champ} mal wieder komplett runtergerant. Uff, {k}/{d}/{a}, was für stats...

@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+int_config.json
+patch_config.json
+inter.pkl
+inter_chats.pkl
